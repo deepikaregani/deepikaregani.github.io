@@ -2,9 +2,8 @@
 title: "Planning for Autonomous Robots"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/robotics
 venue: "University fo Maryland, College Park, Department of Electrical and Computer Engineering"
-date: 2014-01-01
 location: "College Park, USA."
 ---
 
